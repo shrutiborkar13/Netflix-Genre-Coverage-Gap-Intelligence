@@ -1,0 +1,598 @@
+{
+    "Afghanistan": [
+        "International Movies",
+        "Documentaries"
+    ],
+    "Albania": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Algeria": [
+        "Independent Movies",
+        "Classic Movies",
+        "International Movies"
+    ],
+    "Angola": [
+        "International Movies",
+        "Action & Adventure"
+    ],
+    "Argentina": [
+        "Action & Adventure",
+        "TV Dramas",
+        "Children & Family Movies"
+    ],
+    "Armenia": [
+        "International Movies",
+        "Documentaries"
+    ],
+    "Australia": [
+        "International Movies",
+        "Comedies",
+        "Dramas"
+    ],
+    "Austria": [
+        "International TV Shows",
+        "TV Dramas",
+        "Crime TV Shows"
+    ],
+    "Azerbaijan": [
+        "International TV Shows",
+        "TV Dramas",
+        "Romantic TV Shows"
+    ],
+    "Bahamas": [
+        "Action & Adventure"
+    ],
+    "Bangladesh": [
+        "Comedies",
+        "International Movies",
+        "Dramas"
+    ],
+    "Belarus": [
+        "TV Comedies",
+        "Kids' TV",
+        "British TV Shows"
+    ],
+    "Belgium": [
+        "Kids' TV",
+        "Romantic Movies",
+        "Documentaries"
+    ],
+    "Bermuda": [
+        "Documentaries"
+    ],
+    "Botswana": [
+        "Documentaries"
+    ],
+    "Brazil": [
+        "Action & Adventure",
+        "Romantic Movies",
+        "Dramas"
+    ],
+    "Bulgaria": [
+        "Dramas",
+        "Independent Movies",
+        "Children & Family Movies"
+    ],
+    "Burkina Faso": [
+        "International Movies",
+        "Dramas",
+        "Independent Movies"
+    ],
+    "Cambodia": [
+        "International Movies",
+        "Children & Family Movies",
+        "Dramas"
+    ],
+    "Cambodia,": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Cameroon": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Canada": [
+        "International Movies",
+        "Dramas",
+        "International TV Shows"
+    ],
+    "Cayman Islands": [
+        "Comedies",
+        "Children & Family Movies"
+    ],
+    "Chile": [
+        "Action & Adventure",
+        "Children & Family Movies",
+        "Romantic Movies"
+    ],
+    "China": [
+        "Dramas",
+        "Independent Movies",
+        "Documentaries"
+    ],
+    "Colombia": [
+        "Dramas",
+        "Action & Adventure",
+        "International Movies"
+    ],
+    "Croatia": [
+        "Comedies",
+        "International TV Shows",
+        "International Movies"
+    ],
+    "Cuba": [
+        "International TV Shows",
+        "Crime TV Shows",
+        "Spanish-Language TV Shows"
+    ],
+    "Cyprus": [
+        "TV Comedies",
+        "Kids' TV"
+    ],
+    "Czech Republic": [
+        "Documentaries",
+        "Comedies",
+        "Independent Movies"
+    ],
+    "Denmark": [
+        "Comedies",
+        "Action & Adventure",
+        "Romantic Movies"
+    ],
+    "Dominican Republic": [
+        "International Movies",
+        "Thrillers",
+        "Horror Movies"
+    ],
+    "East Germany": [
+        "Comedies",
+        "Children & Family Movies",
+        "Classic Movies"
+    ],
+    "Ecuador": [
+        "Documentaries"
+    ],
+    "Egypt": [
+        "Documentaries",
+        "Children & Family Movies",
+        "Independent Movies"
+    ],
+    "Ethiopia": [
+        "International Movies",
+        "Dramas",
+        "Independent Movies"
+    ],
+    "Finland": [
+        "Dramas",
+        "Action & Adventure",
+        "Comedies"
+    ],
+    "France": [
+        "Comedies",
+        "International TV Shows",
+        "Romantic TV Shows"
+    ],
+    "Georgia": [
+        "Dramas",
+        "Documentaries",
+        "Independent Movies"
+    ],
+    "Germany": [
+        "TV Comedies",
+        "Romantic TV Shows",
+        "Romantic Movies"
+    ],
+    "Ghana": [
+        "Comedies",
+        "Independent Movies",
+        "International Movies"
+    ],
+    "Greece": [
+        "International Movies",
+        "Comedies",
+        "International TV Shows"
+    ],
+    "Guatemala": [
+        "Dramas",
+        "Documentaries",
+        "Independent Movies"
+    ],
+    "Hong Kong": [
+        "Documentaries",
+        "International TV Shows",
+        "Independent Movies"
+    ],
+    "Hungary": [
+        "TV Dramas",
+        "Children & Family Movies",
+        "Thrillers"
+    ],
+    "Iceland": [
+        "International Movies",
+        "Action & Adventure",
+        "Romantic Movies"
+    ],
+    "India": [
+        "International TV Shows",
+        "Documentaries",
+        "Children & Family Movies"
+    ],
+    "Indonesia": [
+        "International TV Shows",
+        "Independent Movies",
+        "Documentaries"
+    ],
+    "Iran": [
+        "Thrillers",
+        "Horror Movies",
+        "Classic Movies"
+    ],
+    "Iraq": [
+        "International Movies",
+        "Documentaries"
+    ],
+    "Ireland": [
+        "International TV Shows",
+        "International Movies",
+        "Comedies"
+    ],
+    "Israel": [
+        "Comedies",
+        "Action & Adventure",
+        "Dramas"
+    ],
+    "Italy": [
+        "Comedies",
+        "Action & Adventure",
+        "Children & Family Movies"
+    ],
+    "Jamaica": [
+        "International Movies",
+        "Dramas",
+        "Sports Movies"
+    ],
+    "Japan": [
+        "Dramas",
+        "Comedies",
+        "International Movies"
+    ],
+    "Jordan": [
+        "Documentaries",
+        "Independent Movies",
+        "Comedies"
+    ],
+    "Kazakhstan": [
+        "Children & Family Movies"
+    ],
+    "Kenya": [
+        "Documentaries",
+        "Romantic Movies",
+        "Comedies"
+    ],
+    "Kuwait": [
+        "Dramas",
+        "Action & Adventure",
+        "Thrillers"
+    ],
+    "Latvia": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Lebanon": [
+        "Children & Family Movies",
+        "Comedies",
+        "Music & Musicals"
+    ],
+    "Liechtenstein": [
+        "Dramas",
+        "Romantic Movies",
+        "Classic Movies"
+    ],
+    "Lithuania": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Luxembourg": [
+        "International TV Shows",
+        "TV Dramas",
+        "Thrillers"
+    ],
+    "Malawi": [
+        "Dramas",
+        "Independent Movies",
+        "Children & Family Movies"
+    ],
+    "Malaysia": [
+        "Independent Movies",
+        "Children & Family Movies",
+        "TV Dramas"
+    ],
+    "Malta": [
+        "Dramas",
+        "TV Dramas",
+        "Thrillers"
+    ],
+    "Mauritius": [
+        "Comedies",
+        "International TV Shows",
+        "TV Dramas"
+    ],
+    "Mexico": [
+        "Thrillers",
+        "Action & Adventure",
+        "Dramas"
+    ],
+    "Mongolia": [
+        "International Movies",
+        "Documentaries"
+    ],
+    "Montenegro": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Morocco": [
+        "Action & Adventure",
+        "Documentaries",
+        "Independent Movies"
+    ],
+    "Mozambique": [
+        "International Movies",
+        "Dramas",
+        "Thrillers"
+    ],
+    "Namibia": [
+        "Dramas",
+        "Documentaries",
+        "International Movies"
+    ],
+    "Nepal": [
+        "Dramas",
+        "Action & Adventure",
+        "International Movies"
+    ],
+    "Netherlands": [
+        "Action & Adventure",
+        "Comedies",
+        "International TV Shows"
+    ],
+    "New Zealand": [
+        "Comedies",
+        "International TV Shows",
+        "International Movies"
+    ],
+    "Nicaragua": [
+        "Documentaries"
+    ],
+    "Nigeria": [
+        "Documentaries",
+        "Action & Adventure",
+        "International TV Shows"
+    ],
+    "Norway": [
+        "Comedies",
+        "Children & Family Movies",
+        "Independent Movies"
+    ],
+    "Pakistan": [
+        "Children & Family Movies",
+        "Action & Adventure",
+        "Crime TV Shows"
+    ],
+    "Palestine": [
+        "International Movies",
+        "Documentaries"
+    ],
+    "Panama": [
+        "Documentaries",
+        "Sports Movies"
+    ],
+    "Paraguay": [
+        "International Movies",
+        "Action & Adventure"
+    ],
+    "Peru": [
+        "Dramas",
+        "Romantic Movies",
+        "Horror Movies"
+    ],
+    "Philippines": [
+        "International TV Shows",
+        "Documentaries",
+        "TV Dramas"
+    ],
+    "Poland": [
+        "Documentaries",
+        "Comedies",
+        "Action & Adventure"
+    ],
+    "Poland,": [
+        "International Movies",
+        "Dramas",
+        "Classic Movies"
+    ],
+    "Portugal": [
+        "Romantic Movies",
+        "Comedies",
+        "Sports Movies"
+    ],
+    "Puerto Rico": [
+        "International TV Shows",
+        "Crime TV Shows",
+        "Spanish-Language TV Shows"
+    ],
+    "Qatar": [
+        "Documentaries",
+        "Comedies",
+        "Children & Family Movies"
+    ],
+    "Romania": [
+        "Documentaries",
+        "Children & Family Movies",
+        "Sci-Fi & Fantasy"
+    ],
+    "Russia": [
+        "Dramas",
+        "Comedies",
+        "International Movies"
+    ],
+    "Samoa": [
+        "Documentaries",
+        "Sports Movies"
+    ],
+    "Saudi Arabia": [
+        "Action & Adventure",
+        "Dramas",
+        "TV Comedies"
+    ],
+    "Senegal": [
+        "International Movies",
+        "Dramas",
+        "International TV Shows"
+    ],
+    "Serbia": [
+        "Documentaries",
+        "Independent Movies",
+        "Thrillers"
+    ],
+    "Singapore": [
+        "Dramas",
+        "Documentaries",
+        "Independent Movies"
+    ],
+    "Slovakia": [
+        "International Movies",
+        "Dramas"
+    ],
+    "Slovenia": [
+        "Dramas",
+        "Comedies",
+        "International Movies"
+    ],
+    "Somalia": [
+        "Dramas"
+    ],
+    "South Africa": [
+        "Children & Family Movies",
+        "Independent Movies",
+        "Thrillers"
+    ],
+    "South Korea": [
+        "Dramas",
+        "International Movies",
+        "Comedies"
+    ],
+    "Soviet Union": [
+        "Action & Adventure",
+        "Romantic Movies",
+        "Dramas"
+    ],
+    "Spain": [
+        "Action & Adventure",
+        "Children & Family Movies",
+        "Kids' TV"
+    ],
+    "Sri Lanka": [
+        "International Movies",
+        "Documentaries"
+    ],
+    "Sudan": [
+        "Dramas"
+    ],
+    "Sweden": [
+        "Comedies",
+        "Action & Adventure",
+        "Romantic Movies"
+    ],
+    "Switzerland": [
+        "International TV Shows",
+        "Comedies",
+        "TV Dramas"
+    ],
+    "Syria": [
+        "International Movies",
+        "Comedies",
+        "International TV Shows"
+    ],
+    "Taiwan": [
+        "Dramas",
+        "International Movies",
+        "Comedies"
+    ],
+    "Thailand": [
+        "Dramas",
+        "Children & Family Movies",
+        "Documentaries"
+    ],
+    "Turkey": [
+        "Dramas",
+        "Independent Movies",
+        "Action & Adventure"
+    ],
+    "Uganda": [
+        "Documentaries"
+    ],
+    "Ukraine": [
+        "International Movies",
+        "Documentaries",
+        "TV Dramas"
+    ],
+    "United Arab Emirates": [
+        "International TV Shows",
+        "TV Dramas",
+        "Romantic Movies"
+    ],
+    "United Kingdom": [
+        "International Movies",
+        "Comedies",
+        "Dramas"
+    ],
+    "United Kingdom,": [
+        "Dramas",
+        "Documentaries",
+        "International Movies"
+    ],
+    "United States": [
+        "International Movies",
+        "International TV Shows",
+        "Dramas"
+    ],
+    "United States,": [
+        "Documentaries"
+    ],
+    "Unknown": [
+        "Dramas",
+        "Independent Movies",
+        "Comedies"
+    ],
+    "Uruguay": [
+        "International TV Shows",
+        "Independent Movies",
+        "Comedies"
+    ],
+    "Vatican City": [
+        "International Movies",
+        "Documentaries",
+        "Faith & Spirituality"
+    ],
+    "Venezuela": [
+        "Dramas",
+        "Thrillers",
+        "International Movies"
+    ],
+    "Vietnam": [
+        "Documentaries",
+        "Thrillers",
+        "Comedies"
+    ],
+    "West Germany": [
+        "Comedies",
+        "International TV Shows",
+        "International Movies"
+    ],
+    "Zimbabwe": [
+        "Comedies",
+        "Romantic Movies",
+        "Documentaries"
+    ]
+}
