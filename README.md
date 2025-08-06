@@ -9,10 +9,10 @@ This end-to-end data analytics project helps Netflix identify underrepresented c
 4. Can AI help summarize insights for stakeholders?
 
 🧠 Project Highlights
-> leaned & normalized 7,000+ Netflix titles
-> Created country-genre gap scores using global_share - country_share
-> Grouped countries using K-Means clustering
-> Built a Streamlit GPT chatbot for insight generation
+1. leaned & normalized 7,000+ Netflix titles
+2. Created country-genre gap scores using global_share - country_share
+3. Grouped countries using K-Means clustering
+4. Built a Streamlit GPT chatbot for insight generation
 
 📌 Portfolio Link: https://www.notion.so/shrutiborkarportfolio/Netflix-Genre-Coverage-Gap-Intelligence-2475d98389a6801ca5bcd0f9df2f886c?v=f7de9ffec23c43ef80d0a8eaeb757777&source=copy_link 
 
