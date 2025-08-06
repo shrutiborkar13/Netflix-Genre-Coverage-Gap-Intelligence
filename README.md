@@ -15,5 +15,5 @@ This end-to-end data analytics project helps Netflix identify underrepresented c
 > Built a Streamlit GPT chatbot for insight generation
 
 📌 Portfolio Link: https://www.notion.so/shrutiborkarportfolio/Netflix-Genre-Coverage-Gap-Intelligence-2475d98389a6801ca5bcd0f9df2f886c?v=f7de9ffec23c43ef80d0a8eaeb757777&source=copy_link 
-✅ Delivered an executive Power BI dashboard with filters & KPIs
+
 <img width="1010" height="564" alt="Screenshot 2025-08-06 070317" src="https://github.com/user-attachments/assets/6d58a77a-1110-41f1-9525-60baeab1fd8b" />
